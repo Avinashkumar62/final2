@@ -1,0 +1,65 @@
+[
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIkR_eJeAIjSxzuPKiy1XoLK-Ftwy5pb28T1-AXxpDmQ&s4",
+    "timestamp": "2023-11-14T09:20:59Z",
+    "title": "Article",
+    "otherField": "Indian NGO Prahar Has Sought To Ban The Chinese Game Undawn: Here’s Why"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWje_gjVcmi-wks5nTRnW_xv5W2l3MVnk7W1QDcZuhNg&s",
+    "timestamp": "2023-11-14T08:23:00Z",
+    "title": "Infographic",
+    "otherField": "Sweden Officially Recognizes Esports, And What It Means For Indian Gaming"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUkEl8bcmEEFoU6icuDPdyDjM4GeXOV3hZP68muI5ZYg&s",
+    "timestamp": "2023-11-10T15:00:00Z",
+    "title": "Stories",
+    "otherField": "BGMI In-Game Names: Cool Gamer Tags Suggested By ChatGPT And Google Bard"
+  },
+  {
+    "image": "https://imgs.search.brave.com/J1HjbzHaBnyB8SHkYTTTij1GsQNJWU6ixiwlvSMlUuM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9j/dXRlLWdpcmwtd29y/a3MtbGFwdG9wLWhp/cHN0ZXItY2FmZV8z/NDYyNzgtMjAzLmpw/Zz9zaXplPTYyNiZl/eHQ9anBn",
+    "timestamp": "2023-11-10T09:30:00Z",
+    "title": "Soundboard",
+    "otherField": "this card will display the some cards containts"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8su0bRZFMIDwWKT9Uoay_l9KEM3_2nGQNw&usqp=CAU",
+    "timestamp": "2023-11-14T08:23:00Z",
+    "title": "Videos ",
+    "otherField": "Une Updates For Amazon Prime Gaming: Full List Of Amazing Free Games"
+  },
+  {
+    "image": "https://imgs.search.brave.com/J1HjbzHaBnyB8SHkYTTTij1GsQNJWU6ixiwlvSMlUuM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9j/dXRlLWdpcmwtd29y/a3MtbGFwdG9wLWhp/cHN0ZXItY2FmZV8z/NDYyNzgtMjAzLmpw/Zz9zaXplPTYyNiZl/eHQ9anBn",
+    "timestamp": "2023-10-10T15:30:00Z",
+    "title": "Infographic",
+    "otherField": "this card will display the some cards containts"
+  },
+  {
+    "content_id": "000000-0000-0000-0000-000008",
+    "content_type": "article",
+    "title": "Article",
+    "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1kcOJn.img?w=534&h=300&m=6&x=500&y=90&s=36&d=36",
+    "timestamp": "2023-10-07T13:23:78Z",
+    "url": "https://www.google.com",
+    "otherField": "A rather boring but important news"
+  },
+  {
+    "content_id": "000000-0000-0000-0000-000001", 
+    "content_type": "article",
+    "title": "Article",
+    "image": "https://www.hcltech.com/sites/default/files/images/general-landing-page/cricket-australia-new/Donald-Elliott.webp",
+    "url": "",
+    "timestamp": "2023-10-07T13:23:78Z", 
+    "otherField": "A very recent article"
+  },
+  {
+    "content_id": "000000-0000-0000-0000-000002",
+    "content_type": "image",
+    "title": "Infographic",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yVobaGq03Js7I69IxzX-BD00W2gMXD2kdw&usqp=CAU",
+    "timestamp": "2023-10-07T13:23:78Z",
+    "otherField": "Some image about an interesting topic"
+  }
+  
+]
